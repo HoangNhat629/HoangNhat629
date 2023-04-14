@@ -1,6 +1,6 @@
 # 💫 About Me:
 I'm Finn and I am a FullStack and Salesforce Developer.
-<img src="https://gifer.com/embed/4c4t" width="512px"/>
+<div style="padding-top:55.102%;position:relative;"><iframe src="https://gifer.com/embed/4c4t" width="100%" height="100%" style='position:absolute;top:0;left:0;' frameBorder="0" allowFullScreen></iframe></div><p><a href="https://gifer.com">via GIFER</a></p>
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/finn621999) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hnn_finn) 
 
